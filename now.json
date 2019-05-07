@@ -1,0 +1,11 @@
+{
+    "name": "kaixoworld",
+    "env":
+    {
+        "NODE_ENV": "production"
+    },
+    "alias": [
+        "kaixoworld"
+    ],
+    "version": 2
+}
